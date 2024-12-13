@@ -16,7 +16,7 @@
 
 ## My Skills
 <a href="https://skillicons.dev">
-  <img height=40 src="https://skillicons.dev/icons?i=js,nodejs,java,python,html,css,aws,git,github,vscode,idea,mysql,mongodb" />
+  <img height=20 src="https://skillicons.dev/icons?i=js,nodejs,java,python,html,css,aws,git,github,vscode,idea,mysql,mongodb" />
 </a>
 
 ## How To Contact Me
@@ -24,7 +24,7 @@
 - **Discord**: xynyi.i
 <div align="center">
 <a href="https://discord.com/users/711883282886819951">
-  <img src="https://api.lanyard.rest/v1/users/711883282886819951">
+  <img src="https://lanyard.cnrad.dev/api/711883282886819951?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
 </a>
 </div>
 
