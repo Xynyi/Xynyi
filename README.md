@@ -22,8 +22,10 @@
 ## How To Contact Me
 - **Email**: zerocode2025@gmail.com
 - **Discord**: xynyi.i
+<div align="center">
 <a href="https://discord.com/users/711883282886819951">
   <img src="https://lanyard.cnrad.dev/api/711883282886819951?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
 </a>
+</div>
 
 
