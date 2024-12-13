@@ -16,9 +16,7 @@
 
 ## My Skills
 <a href="https://skillicons.dev">
-  <img height=40 src="https://skillicons.dev/icons?i=js,nodejs,java,python,html,css" />
-  <br />
-  <img height=40 src="https://skillicons.dev/icons?i=aws,git,github,vscode,idea,mysql,mongodb" />
+  <img height=40 src="https://skillicons.dev/icons?i=js,nodejs,java,python,html,css,aws,git,github,vscode,idea,mysql,mongodb" />
 </a>
 
 ## How To Contact Me
@@ -28,17 +26,4 @@
   <img src="https://lanyard.cnrad.dev/api/711883282886819951?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
 </a>
 
-## My Github Stats
-<a href="https://git.io/streak-stats">
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=littlegiqnt&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=littlegiqnt"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=200 alt="GitHub Streak" />
-  </picture>
-</a>
+
