@@ -24,7 +24,7 @@
 - **Discord**: xynyi.i
 <div align="center">
 <a href="https://discord.com/users/711883282886819951">
-  <img src="https://lanyard.cnrad.dev/api/711883282886819951?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
+  <img src="https://api.lanyard.rest/v1/users/711883282886819951">
 </a>
 </div>
 
