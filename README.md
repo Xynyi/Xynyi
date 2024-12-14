@@ -8,13 +8,15 @@
 - Configuring Pterodactyl Servers
 - System Administration
 
-## My Projects
+## What i've been working
 ### Ranked Bedwars Bot
 - Team developed Automated Discord Bot for Ranked Bedwars.
 - Easy to use and configure with new features like private games.
 - Can be customized for each server.
+- Automated queue and scoring with integration of Bedwars1058 api
+- Visually Appealing Image generation
 
-## My Skills
+## Stuff i work with
 <a href="https://skillicons.dev">
   <img height=80 src="https://skillicons.dev/icons?i=js,nodejs,java,python,html,css,aws,git,github,vscode,idea,mysql,mongodb" />
 </a>
@@ -22,9 +24,10 @@
 ## How To Contact Me
 - **Email**: zerocode2025@gmail.com
 - **Discord**: xynyi.i
+  
 <div align="center">
 <a href="https://discord.com/users/711883282886819951">
-  <img src="https://lanyard.cnrad.dev/api/711883282886819951?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
+  <img src="https://lanyard.cnrad.dev/api/711883282886819951?showDisplayName=true&idleMessage=Meoww'%20Is%20Sleeping%20rn%20:P">
 </a>
 </div>
 
