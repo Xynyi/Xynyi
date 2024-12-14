@@ -27,7 +27,7 @@
   
 <div align="center">
 <a href="https://discord.com/users/711883282886819951">
-  <img src="https://lanyard.cnrad.dev/api/711883282886819951?showDisplayName=true&idleMessage=Meoww'%20Is%20Sleeping%20rn%20:P">
+  <img src="https://lanyard.cnrad.dev/api/711883282886819951?showDisplayName=true&idleMessage=Meowwie%20is%20Eeeping%20Atm%20Grrrrrrr">
 </a>
 </div>
 
