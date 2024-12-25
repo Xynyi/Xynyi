@@ -24,6 +24,7 @@
 ## How To Contact Me
 - **Email**: zerocode2025@gmail.com
 - **Discord**: xynyi.i
+- **Folio**: https://xyn.lol/
   
 <div align="center">
 <a href="https://discord.com/users/711883282886819951">
